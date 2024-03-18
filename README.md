@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pake97 from Italy 🇮🇹
-- 👀 I’m interested in mobile app and web development, machine learning, deep learning, and obviously mixing them togheter!
-- 🌱 I’m currently learning pythorch
+- 👀 I’m a PHD student in Lyon and part of the LIRIS Database Team.
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
